@@ -40,7 +40,7 @@ function App({ Component, pageProps }) {
         <meta property="og:description" content={description} />
         <meta property="og:image" content={`${baseUrl}/preview.jpg`} />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="@mangomarkets" />
+        <meta name="twitter:site" content="@solanasail" />
       </Head>
       <ThemeProvider defaultTheme="Mango">
         <NavBar />
