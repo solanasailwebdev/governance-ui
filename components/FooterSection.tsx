@@ -32,7 +32,7 @@ const FooterSection = () => {
           <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
             <h2 className="inline text-3xl font-extrabold sm:block sm:text-4xl">
               Want product news and updates?{' '}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-mango-red via-mango-yellow to-mango-green sm:block sm:text-4xl">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-solanasail-red via-solanasail-yellow to-solanasail-green sm:block sm:text-4xl">
                 Sign up for our newsletter.
               </span>
             </h2>
@@ -77,13 +77,13 @@ const FooterSection = () => {
                 <a className="text-gray-600 text-2xl leading-none" href="#">
                   <img
                     className="h-8"
-                    src="img/logo_mango.svg"
+                    src="img/logo_solanasail.svg"
                     alt=""
                     width="auto"
                   />
                 </a>
                 <p className="mt-5 mb-6 max-w-xs text-gray-500 leading-loose">
-                  Mango is a decentralized autonomous organization.{' '}
+                  SoalanaSail is a decentralized autonomous organization.{' '}
                 </p>
                 <div className="flex flex-row">
                   <a
@@ -94,13 +94,13 @@ const FooterSection = () => {
                   </a>
                   <a
                     className="flex h-6 w-6 m-2"
-                    href="https://discord.gg/67jySBhxrg"
+                    href="https://discord.com/invite/37cMrQ8kV9"
                   >
                     <img className="mx-auto" src="socials/discord.svg" />
                   </a>
                   <a
                     className="flex h-6 w-6 m-2"
-                    href="https://twitter.com/mangomarkets"
+                    href="https://twitter.com/solanasail"
                   >
                     <img className="mx-auto" src="socials/twitter.svg" />
                   </a>
@@ -193,7 +193,7 @@ const FooterSection = () => {
                       <li className="mb-4">
                         <a
                           className="text-gray-500 hover:text-gray-600"
-                          href="https://discord.gg/67jySBhxrg"
+                          href="https://discord.com/invite/37cMrQ8kV9"
                         >
                           Discord
                         </a>
@@ -201,7 +201,7 @@ const FooterSection = () => {
                       <li className="mb-4">
                         <a
                           className="text-gray-500 hover:text-gray-600"
-                          href="https://twitter.com/mangomarkets"
+                          href="https://twitter.com/solanasail"
                         >
                           Twitter
                         </a>
