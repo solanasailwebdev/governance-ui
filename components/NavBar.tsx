@@ -23,8 +23,8 @@ const NavBar = () => {
       <div className="flex justify-between items-center md:justify-start md:space-x-10">
         <div className="flex justify-start lg:w-0 lg:flex-1">
           <a href="https://solanasail.com">
-            <span className="sr-only">Mango</span>
-            <img className="h-7" src="img/logo_mango.svg" alt="" width="auto" />
+            <span className="sr-only">Solanasail</span>
+            <img className="h-7" src="img/logo_solanasail.svg" alt="" width="auto" />
           </a>
         </div>
         <div className="-mr-2 -my-2 md:hidden">

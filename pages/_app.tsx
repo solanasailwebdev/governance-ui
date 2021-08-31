@@ -11,11 +11,11 @@ function App({ Component, pageProps }) {
   useHydrateStore()
   useWallet()
 
-  const title = 'Mango DAO'
+  const title = 'SolanaSail DAO'
   const description =
-    'Discuss and vote on Mango DAO proposals. Join us in building Mango, the protocol for permissionless leverage trading & lending.'
+    'Discuss and vote on SolanaSail DAO proposals. Join us in building Solanasail, the protocol for permissionless leverage trading & lending.'
   const keywords =
-    'Mango Markets, DAO, Governance, Serum, SRM, Serum DEX, DEFI, Decentralized Finance, Decentralised Finance, Crypto, ERC20, Ethereum, Decentralize, Solana, SOL, SPL, Cross-Chain, Trading, Fastest, Fast, SerumBTC, SerumUSD, SRM Tokens, SPL Tokens'
+    'SolanaSail, DAO, Governance, Serum, SRM, Serum DEX, DEFI, Decentralized Finance, Decentralised Finance, Crypto, ERC20, Ethereum, Decentralize, Solana, SOL, SPL, Cross-Chain, Trading, Fastest, Fast, SerumBTC, SerumUSD, SRM Tokens, SPL Tokens'
   const baseUrl = 'https://token.solanasail.com'
 
   return (

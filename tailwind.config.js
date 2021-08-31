@@ -54,22 +54,22 @@ module.exports = {
         red: '#E54033',
         green: '#AFD803',
         blue: '#026DF7',
-        'mango-dark': {
+        'solanasail-dark': {
           lighter: '#332F46',
           light: '#262337',
           DEFAULT: '#141026',
         },
-        'mango-med': {
+        'solanasail-med': {
           light: '#C2BDD9',
           DEFAULT: '#9490A6',
           dark: '#706C81',
         },
-        'mango-light': {
+        'solanasail-light': {
           light: '#FCFCFF',
           DEFAULT: '#F0EDFF',
           dark: '#B9B5CE',
         },
-        'mango-grey': {
+        'solanasail-grey': {
           lighter: '#f7f7f7',
           light: '#e6e6e6',
           dark: '#092e34',
