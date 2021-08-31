@@ -18,7 +18,7 @@ async function runNotifier() {
   const CLUSTER = 'mainnet-beta'
   const ENDPOINT = ENDPOINTS.find((e) => e.name === CLUSTER)
 
-  const realmInfo = REALMS.find((r) => r.symbol === 'SAIL')
+  const realmInfo = REALMS.find((r) => r.symbol === 'GSAIL')
 
   const governances = await getGovernanceAccounts<Governance>(
     realmInfo.programId,
