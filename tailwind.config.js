@@ -37,8 +37,8 @@ module.exports = {
         help: 'help',
       },
       colors: {
-        primary: { light: '#F2C94C', dark: '#EEB91B' },
-        'secondary-1': { light: '#AFD803', dark: '#6CBF00' },
+        primary: { light: '#00CAEC', dark: '#001867' },
+        'secondary-1': { light: '#FFE5B5', dark: '#FF9B00' },
         'secondary-2': { light: '#E54033', dark: '#C7251A' },
         'secondary-3': { light: '#026DF7', dark: '#0259CA' },
         'secondary-4': { light: '#262145', dark: '#1B1735' },
