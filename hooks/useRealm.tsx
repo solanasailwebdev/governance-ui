@@ -6,7 +6,7 @@ import useWalletStore from '../stores/useWalletStore'
 
 export const REALMS: RealmInfo[] = [
   {
-    symbol: 'SAIL',
+    symbol: 'GSAIL',
     endpoint: 'mainnet',
     programId: new PublicKey('GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J'),
     realmId: new PublicKey('DPiH3H3c7t47BMxqTxLsuPQpEC6Kne8GA9VXbxpnZxFE'),
