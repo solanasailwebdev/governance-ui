@@ -13,10 +13,10 @@ export function getProgramName(programId: PublicKey) {
 
 // Well known account names displayed on the instruction card
 export const ACCOUNT_NAMES = {
-  Guiwem4qBivtkSFrxZAEfuthBz6YuWyCwS4G3fjBYu5Z: 'MNGO Treasury',
-  CF8sDcPztLDkvnEbYnCaXiDxhUpZ2uKLStpmFfRDNxSd: 'BTC-PERP MNGO',
+  Guiwem4qBivtkSFrxZAEfuthBz6YuWyCwS4G3fjBYu5Z: 'SAIL Treasury',
+  CF8sDcPztLDkvnEbYnCaXiDxhUpZ2uKLStpmFfRDNxSd: 'BTC-PERP SAIL',
   '9RGoboEjmaAjSCXsKi6p6zJucnwF3Eg5NUN9jPS6ziL3':
-    'MNGO Treasury Governance Authority',
+    'SAIL Treasury Governance Authority',
 }
 
 export function getAccountName(accountPk: PublicKey) {
@@ -30,7 +30,7 @@ export interface TokenDescriptor {
 
 // Well known token account descriptors displayed on the instruction card
 export const TOKEN_DESCRIPTORS = {
-  Guiwem4qBivtkSFrxZAEfuthBz6YuWyCwS4G3fjBYu5Z: { name: 'MNGO', decimals: 6 },
+  Guiwem4qBivtkSFrxZAEfuthBz6YuWyCwS4G3fjBYu5Z: { name: 'SAIL', decimals: 6 },
 }
 
 export function getTokenDescriptor(tokenAccountPk: PublicKey): TokenDescriptor {

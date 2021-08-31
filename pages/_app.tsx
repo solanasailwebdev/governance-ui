@@ -42,7 +42,7 @@ function App({ Component, pageProps }) {
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@solanasail" />
       </Head>
-      <ThemeProvider defaultTheme="Mango">
+      <ThemeProvider defaultTheme="Sail">
         <NavBar />
         <Notifications />
         <PageBodyContainer>

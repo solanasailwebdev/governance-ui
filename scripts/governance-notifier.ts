@@ -10,7 +10,7 @@ import { getGovernanceAccounts, pubkeyFilter } from './api'
 const fiveMinutesSeconds = 5 * 60
 const toleranceSeconds = 30
 
-// run every 5 mins, checks if a mngo governance proposal just opened in the last 5 mins
+// run every 5 mins, checks if a sail governance proposal just opened in the last 5 mins
 // and notifies on WEBHOOK_URL
 async function runNotifier() {
   const nowInSeconds = new Date().getTime() / 1000
@@ -18,7 +18,7 @@ async function runNotifier() {
   const CLUSTER = 'mainnet-beta'
   const ENDPOINT = ENDPOINTS.find((e) => e.name === CLUSTER)
 
-  const realmInfo = REALMS.find((r) => r.symbol === 'MNGO')
+  const realmInfo = REALMS.find((r) => r.symbol === 'SAIL')
 
   const governances = await getGovernanceAccounts<Governance>(
     realmInfo.programId,
