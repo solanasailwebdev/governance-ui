@@ -39,7 +39,7 @@ module.exports = {
       colors: {
         primary: { light: '#00CAEC', dark: '#001867' },
         'secondary-1': { light: '#FFE5B5', dark: '#FF9B00' },
-        'secondary-2': { light: '#E54033', dark: '#C7251A' },
+        'secondary-2': { light: '#FFE5B5', dark: '#FF9B00' },
         'secondary-3': { light: '#026DF7', dark: '#0259CA' },
         'secondary-4': { light: '#262145', dark: '#1B1735' },
         'bkg-1': '#141125',
