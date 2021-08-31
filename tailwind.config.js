@@ -52,8 +52,8 @@ module.exports = {
         'fgd-4': '#706C81',
         yellow: '#F2C94C',
         red: '#E54033',
-        green: '#AFD803',
-        blue: '#026DF7',
+        green: '#00CAEC',
+        blue: '#001867',
         'solanasail-dark': {
           lighter: '#332F46',
           light: '#262337',
