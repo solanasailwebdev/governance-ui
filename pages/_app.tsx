@@ -16,7 +16,7 @@ function App({ Component, pageProps }) {
     'Discuss and vote on Mango DAO proposals. Join us in building Mango, the protocol for permissionless leverage trading & lending.'
   const keywords =
     'Mango Markets, DAO, Governance, Serum, SRM, Serum DEX, DEFI, Decentralized Finance, Decentralised Finance, Crypto, ERC20, Ethereum, Decentralize, Solana, SOL, SPL, Cross-Chain, Trading, Fastest, Fast, SerumBTC, SerumUSD, SRM Tokens, SPL Tokens'
-  const baseUrl = 'https://token.mango.markets'
+  const baseUrl = 'https://token.solanasail.com'
 
   return (
     <>

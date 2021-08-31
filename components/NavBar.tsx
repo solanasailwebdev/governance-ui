@@ -22,7 +22,7 @@ const NavBar = () => {
     <div className="border-b border-bkg-2 px-6 py-4 bg-bkg-2">
       <div className="flex justify-between items-center md:justify-start md:space-x-10">
         <div className="flex justify-start lg:w-0 lg:flex-1">
-          <a href="https://mango.markets">
+          <a href="https://solanasail.com">
             <span className="sr-only">Mango</span>
             <img className="h-7" src="img/logo_mango.svg" alt="" width="auto" />
           </a>

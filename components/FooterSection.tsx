@@ -116,7 +116,7 @@ const FooterSection = () => {
                       <li className="mb-4">
                         <a
                           className="text-gray-500 hover:text-gray-600"
-                          href="https://trade.mango.markets/"
+                          href="https://trade.solanasail.com/"
                         >
                           Spot Markets
                         </a>
@@ -139,7 +139,7 @@ const FooterSection = () => {
                       <li className="mb-4">
                         <a
                           className="text-gray-500 hover:text-gray-600"
-                          href="https://trade.mango.markets/borrow"
+                          href="https://trade.solanasail.com/borrow"
                         >
                           Decentralized Lending
                         </a>
@@ -162,7 +162,7 @@ const FooterSection = () => {
                       <li className="mb-4">
                         <a
                           className="text-gray-500 hover:text-gray-600"
-                          href="https://docs.mango.markets/"
+                          href="https://docs.solanasail.com/"
                         >
                           Explore the docs
                         </a>
