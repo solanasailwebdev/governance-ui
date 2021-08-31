@@ -5,7 +5,7 @@ const Index = () => {
   const router = useRouter()
 
   useEffect(() => {
-    router.push('/dao/SAIL')
+    router.push('/dao/GSAIL')
   }, [])
 
   return <></>
